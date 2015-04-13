@@ -1,5 +1,5 @@
 # hh-typology
-Visualizing household balance sheets during the Great Recession (2007-2011) using the BoE household survey
+Visualizing household balance sheets during the last recession (2007-2011) using the Bank of England household survey
 
 #First steps: data summary
 1. Identify variables appropriate for clustering, summarize
